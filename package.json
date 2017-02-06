@@ -1,0 +1,19 @@
+{
+  "name": "ng-crop-preview",
+  "version": "1.0.0",
+  "description": "Angular directive to crop images.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilherme-faht/ng-crop-preview.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guilherme-faht/ng-crop-preview/issues"
+  },
+  "homepage": "https://github.com/guilherme-faht/ng-crop-preview#readme"
+}
